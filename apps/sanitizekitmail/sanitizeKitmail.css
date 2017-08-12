@@ -1,0 +1,23 @@
+/**
+* Sanitize Kitmail
+*/
+code {
+    white-space: pre;
+    font-size: 10px;
+    max-height: 500px;
+    max-width: 675px;
+    overflow: auto;
+}
+
+#sanitized {
+    display:none;
+}
+
+#minified {
+    display:none;
+}
+
+#variablesBlock {
+    display:none;
+    text-align: center;
+}

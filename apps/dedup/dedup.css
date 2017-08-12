@@ -1,0 +1,63 @@
+/**
+* Dedup
+*/
+
+#update h4 {
+    padding-bottom: 10px;
+    text-align:center;
+}
+
+#update ul li {
+    font-size: 13px;
+}
+
+#optionsBlock,
+#concateBlock{
+    height:250px;
+}
+
+form fieldset,
+fieldset#autoCompleteBlock {
+    display:none;
+}
+
+#answer {
+    margin-top:20px;
+}
+
+p.alert {
+    width:100%;
+    font-size: 12px;
+}
+
+p.secondary {
+    width:100%;
+    font-size: 12px;
+}
+
+#autoCompleteBlock ul {
+    margin-top: 10px;
+}
+
+#step-one {
+    text-align: center;
+}
+
+#autoCompleteBlock {
+    text-align: center;
+}
+
+#autoCompleteBlock legend {
+    text-align: left;
+}
+
+#autoCompleteBlock section article {
+    height: 100px;
+    width: 33%;
+    float: left;
+}
+
+#autoCompleteBlock section article a {
+    display: block;
+    line-height: 35px;
+}

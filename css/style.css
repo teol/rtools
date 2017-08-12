@@ -1,0 +1,92 @@
+header {
+    margin-bottom: 30px;
+}
+
+label {
+    margin-bottom:5px;
+}
+
+input {
+    margin: 0 auto;
+    text-align: center;
+}
+
+::-webkit-file-upload-button {
+    background: #e9e9e9;
+    color: black;
+    padding: 1em;
+    font-size: 1em;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: bold;
+    line-height: 1;
+    margin: 0 0 1.25em;
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+}
+
+form {
+    margin:0 auto;
+}
+
+body {
+    font-family: "Trykker", sans-serif;
+    font-size: 15px;
+}
+
+a, h1, h2, h3, h4, h5, small, input {
+    font-family: "Trykker", sans-serif !important;
+}
+
+label {
+    padding-bottom: 5px;
+}
+
+article.info {
+    text-align:center;
+    background-color:#0d9cc6;
+    border-radius:10px;
+    display:none;
+}
+
+article.info p {
+    font-size: 13px;
+    color:white;
+    padding:10px;
+}
+
+.app-grid ul li a article {
+    height: 220px;
+}
+
+.app-grid ul li a article h5 {
+    position: absolute;
+    bottom: 0;
+    font-size: 15px;
+    font-style: italic;
+}
+
+section.app-grid ul li a article img#linkor {
+    width: 100px;
+    margin-left: 27%;
+    margin-top: 40px;
+}
+
+#update {
+    margin-top: 70px;
+}
+
+#update ul li {
+    font-size: 12px !important;
+}
+
+#anchors {
+    display:none;
+}
+
+aside {
+    margin-top: 70px;
+}

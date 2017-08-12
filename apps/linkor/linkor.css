@@ -1,0 +1,33 @@
+
+
+
+code#linkored table#container {
+    border: 2px outset lightgrey;
+    width: 100%;
+}
+
+code#linkored table#container table {
+    width: 100%;
+}
+
+code#linkored table#container table input {
+    width: 94%;
+    display: inline;
+    margin: 0px;
+}
+
+render {
+    white-space: pre;
+    font-size: 10px;
+    max-height: 500px;
+    max-width: 975px;
+    overflow: auto;
+}
+
+#copy {
+    margin-top: -20px;
+}
+
+#togglable {
+    display:none;
+}
